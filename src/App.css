@@ -1,9 +1,12 @@
+
+
 body {
-    background-color: #ccc;
+    background-color: wheat;
 }
 
 h1 {
     font-weight: 900;
+    
 }
 
 h2 {
@@ -20,7 +23,7 @@ h2 {
     }
 
     .quote-container p {
-        font-size: clamp(23px, 4w, 26px );
+        font-size: clamp(23px, 4vw, 26px );
         font-weight: 700;
     }
 
@@ -29,7 +32,7 @@ h2 {
     }
 
     .grid-container {
-        background-color: salmon;
+        background-color: lightgreen;
     }
 
     .grid-container h2 {

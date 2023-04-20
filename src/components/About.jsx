@@ -8,12 +8,12 @@ export default function About () {
             <Row className="text-center">
                 <Col sm={12} md={6} >
                 
-                <img src="https://picsum.photos/300/300" className="rounded-circle" alt="Profile" />
+                <img src="/images/46942.jpg" className="rounded-circle" alt="Profile " />
                 
                 </Col>
                 <Col>
-                <h1 className="mt-3">Your Name</h1>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, voluptatem? Porro aut voluptas at. Consequuntur dicta quod distinctio architecto est, aspernatur voluptatibus pariatur, libero consequatur officiis minima exercitationem aliquid sequi?</p>
+                <h1 className="mt-3">Barbara Laurince</h1>
+                <p>My name is Barbara, I am from the beautiful Island of Haiti. I love to sing, to read, and to cook/bake. After being in the medical field, I have decided to switch to the Tech World. My goal after finishing the course is to find work, continue my tech journey, and reach out to my community. </p>
                 
 
                 

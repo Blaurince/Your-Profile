@@ -7,7 +7,7 @@ export default function Quote () {
        <Container className="quote-container ">
         <Row className="text-center">
         <Col>
-         <p><q>You have power over your mind- not outside events.</q>- Marcue Aurelius</p>
+         <p><q>Le monde est un livre et ceux qui ne voyagent pas n'en lisent qu'une page.</q>- Saint Augustin d'Hippone</p>
         </Col>
         </Row>
        </Container>

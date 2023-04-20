@@ -6,18 +6,18 @@ export default function Grid () {
         <Container className=" grid-container">
             <Row >
              <Col sm={12} md={4}>
-             <h2>Why BocaCode?</h2>
-             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure, voluptas porro velit eius eaque assumenda provident rem vel sit, perspiciatis voluptatum veniam nulla quaerat ducimus soluta. Quisquam incidunt iste pariatur?</p>
+             <h2 className="text-center">Why BocaCode?</h2>
+             <p>Even though it is possible to learn programming independently, it is ideal to to go to a school where you can find experienced professionals, that will teach and guide you. I chose Boca code because they prepare you to face the tech world. They give you all the tools and skills you need to work in any fields or industries that use software and it is the only place where you can becaome a Software engineer in such little amount of time.</p>
              </Col>
 
              <Col sm={12} md={4}>
-             <h2>Exciting Project?</h2>
-             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aspernatur veritatis voluptas, exercitationem rem eos nisi incidunt aliquam repellat reprehenderit, iste similique tempore non veniam natus ipsum distinctio minus qui magni.</p>
+             <h2 className="text-center">Exciting Project?</h2>
+             <p>I would like to build a website for my church. this is my main goal after finishing the program. </p>
              </Col>
 
              <Col >
-             <h2>Ideal Work Place?</h2>
-             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis nulla facere nihil enim vitae cupiditate mollitia labore dolore, iure explicabo aliquam ducimus aut itaque tempora! Quia mollitia facere blanditiis voluptas!</p>
+             <h2 className="text-center">Ideal Work Place?</h2>
+             <p>My ideal work place should have be a Positive work environment: An ideal workplace should be supportive, and inclusive, where employees feel respected and valued. The company should prioritize creating a healthy work culture that fosters teamwork, open communication, and mutual respect.</p>
              </Col>
             </Row>
         </Container>
