@@ -10,34 +10,34 @@ export default function PictCarousel () {
 
             <Carousel fade>
             <Carousel.Item>
-            <img src="https://picsum.photos/300/200?random=1"
+            <img src="/images/pic1.jpg?random=1"
             className="d-block w-100"
             alt="slide 1" />
             <Carousel.Caption>
-            <h2>First Item</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam excepturi ipsam eum veritatis repellendus aliquid, ea voluptate odit doloribus incidunt, amet architecto minus sunt maiores error cumque aspernatur placeat? Vero!</p>
+            <h2>Family is everything</h2>
+            <p>This is my handsome husband and my beautiful princess.</p>
             </Carousel.Caption>
             </Carousel.Item>
 
 
             <Carousel.Item>
-            <img src="https://picsum.photos/300/200?random=2"
+            <img src="/images/pic2.jpg?random=2"
             className="d-block w-100"
             alt="slide 1" />
             <Carousel.Caption>
-            <h2>First Item</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam excepturi ipsam eum veritatis repellendus aliquid, ea voluptate odit doloribus incidunt, amet architecto minus sunt maiores error cumque aspernatur placeat? Vero!</p>
+            <h2>My Garden</h2>
+            <p>I enjoy gardening. It is a great way to relax and forget about the rest of the world.</p>
             </Carousel.Caption>
             </Carousel.Item>
 
 
             <Carousel.Item>
-            <img src="https://picsum.photos/300/200?random=3"
+            <img src="/images/pic3.jpg?random=3"
             className="d-block w-100"
             alt="slide 1" />
             <Carousel.Caption>
-            <h2>First Item</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam excepturi ipsam eum veritatis repellendus aliquid, ea voluptate odit doloribus incidunt, amet architecto minus sunt maiores error cumque aspernatur placeat? Vero!</p>
+            <h2>Baking</h2>
+            <p>Life is better with cake!</p>
             </Carousel.Caption>
             </Carousel.Item>
 
